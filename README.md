@@ -1,1 +1,40 @@
-# Learn Git and SSh
+# Learn SSh
+
+## Table of contents
+* [Basics of SSH](#basics of ssh)
+* [Methods to Generate SSH key pair](#Generate SSH Key)
+* [Setup](#setup)
+
+## Basics of SSH
+This project is simple Lorem ipsum dolor generator.
+	
+## Technologies
+Project is created with:
+* Lorem version: 12.3
+* Ipsum version: 2.33
+* Ament library version: 999
+
+# Learn GIT
+
+## Table of contents
+* [Basics of GIT](#basics of git)
+* [Methods to Generate SSH key pair](#Generate SSH Key)
+* [Setup](#setup)
+
+## Basics of SSH
+This project is simple Lorem ipsum dolor generator.
+	
+## Technologies
+Project is created with:
+* Lorem version: 12.3
+* Ipsum version: 2.33
+* Ament library version: 999
+	
+## Setup
+To run this project, install it locally using npm:
+
+```
+$ cd ../lorem
+$ npm install
+$ npm start
+```
