@@ -1,8 +1,8 @@
 # Learn SSh
 
 ## Table of contents
-* [Basics of SSH](#basics of ssh)
-* [Methods to Generate SSH key pair](#Generate SSH Key)
+* [Basics of SSH](#basics-of-ssh)
+* [Methods to Generate SSH key pair](#Generate-SSH-Key)
 * [Setup](#setup)
 
 ## Basics of SSH
